@@ -1,6 +1,6 @@
 # Google_Cloud_Image_Classification
-Demonstrates the use of google cloud vision
-The idea for the an image scanner is to stop indecent images from being circulated on a website. It could be used at the uploading stage of the image, to then work with the back end and maybe stop the image from being uploaded and ask for a more appropriate one. 
+Demonstrates the use of google cloud vision.
+The idea for the an image scanner is to stop indecent images from being circulated on a website. It could be used at the uploading stage of the image, to then work with the back end, and maybe stop the image from being uploaded and ask for a more appropriate one. 
 
 How it works:
 Using google cloud vision. Which is a Machine Learning agent developed by google to classify images.  
